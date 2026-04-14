@@ -6,7 +6,7 @@
 
 ♟️ **Bispo** Move => 5 casas para a diagonal *(cima + direita, usando while)*
 
-♟️ **Rainha** => Move 8 casas para a esquerda *(usando do while)*
+♟️ **Rainha** Move => 8 casas para a esquerda *(usando do while)*
 
 ---
 
