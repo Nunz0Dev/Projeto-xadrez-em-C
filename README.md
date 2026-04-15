@@ -9,9 +9,9 @@
 ♛ Rainha Move => 8 casas para a esquerda *(usando do while)*
 
 ♞ Cavalo Move => 2 casas para baixo e uma para esquerda *(usando for e while aninhado)*
----
 
 ## Usei 
+
 🎲 Estrutura de repetição aninhada *(for e while)*
 🎲 Estrutura de repetição *(for, while e do while)*
 🎲 Lógica de programação em C
