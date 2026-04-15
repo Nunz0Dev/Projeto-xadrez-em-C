@@ -43,9 +43,29 @@ do{
     printf("Esquerda\n");
     i++;
 
-}while (i < 8);
+}while (i < 8); 
 
+printf("\n");
 
+// Movimento do cavalo
+
+// Vou usar (for e while aninhados para executar o movimento ex: 2x para baixo e 1x para esquerda)
+
+printf("== CAVALO ==\n");
+
+  for(int i = 0; i < 1; i++) {
+
+     int j = 0;
+
+     while(j < 2){ // duas casas para (baixo)
+     printf("Baixo\n");
+     j++;
+
+     }
+
+     printf("Esquerda\n"); // uma casa para (esquerda)
+  
+  }
 
   return 0; 
 
