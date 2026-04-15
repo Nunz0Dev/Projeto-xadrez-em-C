@@ -1,14 +1,14 @@
 ## Desafio nível (novato => aventureiro) - Movimento de peças de Xadrez
 
-🕹️ **Peças implementadas:**
+♟️ **Peças implementadas:**
 
-♜ **Torre** Move => 5 casas para a direita *(usando for)*
+♜ Torre Move => 5 casas para a direita *(usando for)*
 
-♝ **Bispo** Move => 5 casas para a diagonal *(cima + direita, usando while)*
+♝ Bispo Move => 5 casas para a diagonal *(cima + direita, usando while)*
 
-♛ **Rainha** Move => 8 casas para a esquerda *(usando do while)*
+♛ Rainha Move => 8 casas para a esquerda *(usando do while)*
 
-♞ **Cavalo** Move => 2 casas para baixo e uma para esquerda *(usando for e while aninhado)*
+♞ Cavalo Move => 2 casas para baixo e uma para esquerda *(usando for e while aninhado)*
 ---
 
 ## Usei 
